@@ -1,4 +1,5 @@
 # project1
 first_git
-this is a demo project for the Git hub
-Author
+<p>this is a demo project for the Git hub</p>
+</br>
+<spam>Author: Mukul Jha</spam>
